@@ -1,3 +1,5 @@
+**이미지 저작권은 sungw00ng에게 있습니다.**
+**무단 사용, 저작권 표기 사용 등 모두 허가하지 않습니다.**
 <img src="https://github.com/user-attachments/assets/09e07762-ddd7-4abb-b338-756a140ee084" width="640" height="360">
 <img src="https://github.com/user-attachments/assets/2c2a384f-630f-4739-94e6-2f59da8bfe44" width="640" height="360">
 <img src="https://github.com/user-attachments/assets/113c2a14-ff7f-4e4b-ae71-4364503abb48" width="640" height="360">
